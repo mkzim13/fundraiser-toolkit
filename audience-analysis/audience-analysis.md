@@ -26,6 +26,8 @@ To synthesize our research, we developed a persona representing a typical user: 
 
 Hana’s persona helped us focus on designing a site that feels welcoming, beginner‑friendly, and immediately useful.
 
+- [User Persona](./audience-analysis/fundraiser-toolkit-User-Persona.pdf)
+  
 ### Empathy Map Insights
 
 Our empathy map highlighted several emotional and practical realities:
@@ -37,6 +39,8 @@ Our empathy map highlighted several emotional and practical realities:
 
 These insights reinforced the need for clear navigation, supportive tone, and ready‑to‑use templates.
 
+- [Empathy Map](./audience-analysis/fundraiser-toolkit-empathy-map.pdf)
+  
 ### Journey Map Insights
 
 Mapping Hana’s journey—from discovering the site to implementing its tools—revealed several opportunities:
@@ -48,3 +52,7 @@ Mapping Hana’s journey—from discovering the site to implementing its tools�
 - Mobile‑friendly design for volunteers working on the go  
 
 These findings guided the structure of the toolkit and the prioritization of content.
+
+- [Journey Map](./audience-analysis/fundraiser-toolkit-User-Journey.pdf)
+  
+
