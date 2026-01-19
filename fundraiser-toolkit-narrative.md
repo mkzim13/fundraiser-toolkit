@@ -25,6 +25,11 @@ Our primary audience consisted of staff and volunteers at small nonprofit organi
 
 Because our timeline did not allow for extensive audience research, we made informed assumptions based on common nonprofit constraints. This experience reinforced the importance of defining a narrow, realistic audience early in the design process.
 
+The full analysis—including user interviews, persona development, empathy mapping, and a journey map—is available here:
+
+[View the full Audience Analysis](./audience-analysis/audience-analysis-narrative.md)
+
+
 ---
 
 ## Team Collaboration
