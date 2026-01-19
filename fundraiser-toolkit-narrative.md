@@ -27,7 +27,7 @@ Because our timeline did not allow for extensive audience research, we made info
 
 The full analysis—including user interviews, persona development, empathy mapping, and a journey map—is available here:
 
-[View the full Audience Analysis](./audience-analysis/audience-analysis-narrative.md)
+[View the full Audience Analysis](./audience-analysis/audience-analysis.md)
 
 
 ---
